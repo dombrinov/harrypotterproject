@@ -1,0 +1,41 @@
+.cards {
+  width: 334px;
+  height: 500px;
+  border-radius: 4px;
+  border: 1px solid #dee2e6;
+  background: #fff;
+  position: relative;
+}
+
+.cardsImg {
+  width: 334px;
+  height: 330px;
+  border-radius: 4px 4px 0px 0px;
+  object-fit: cover;
+  margin: 0 auto;
+}
+
+.cardsTitle {
+  color: #152536;
+
+  font-family: Inter;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: normal;
+  margin: 0 auto;
+}
+.cardsText {
+  color: #152536;
+
+  font-family: Inter;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 28px;
+  margin: 0 auto;
+}
+.like {
+  position: absolute;
+  left: 10%;
+}
