@@ -1,0 +1,44 @@
+.flex {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 20px;
+  z-index: 0;
+  border-top: 1px solid #dee2e6;
+  padding: 32px;
+  margin-top: 100px;
+}
+.showLiked {
+  z-index: 1;
+  position: fixed;
+  top: 30px;
+  left: 30px;
+
+  color: #3f444a;
+  font-family: Inter;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 28px; /* 175% */
+  text-decoration-line: underline;
+}
+.title {
+  color: #000;
+
+  font-family: Inter;
+  font-size: 52px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+.subtitle {
+  color: #000;
+
+  /* Lead/Text - Regular */
+  font-family: Inter;
+  font-size: 21px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 36px; /* 171.429% */
+}
