@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/harry_potter/static/css/main.4f9d72da.css",
-    "main.js": "/harry_potter/static/js/main.d6b05aaa.js",
-    "static/media/Like.svg": "/harry_potter/static/media/Like.04cfbd912b38e888f028ad5ec021b4e6.svg",
-    "static/media/Liked.svg": "/harry_potter/static/media/Liked.15dfbef43ccedcd201d332bc9a3a50c4.svg",
-    "index.html": "/harry_potter/index.html",
-    "static/media/Vector.svg": "/harry_potter/static/media/Vector.c4fa3c78694650ccadf7c1b6c1801047.svg",
-    "main.4f9d72da.css.map": "/harry_potter/static/css/main.4f9d72da.css.map",
-    "main.d6b05aaa.js.map": "/harry_potter/static/js/main.d6b05aaa.js.map"
+    "main.css": "/harrypotterproject/static/css/main.4f9d72da.css",
+    "main.js": "/harrypotterproject/static/js/main.65c248c4.js",
+    "static/media/Like.svg": "/harrypotterproject/static/media/Like.04cfbd912b38e888f028ad5ec021b4e6.svg",
+    "static/media/Liked.svg": "/harrypotterproject/static/media/Liked.15dfbef43ccedcd201d332bc9a3a50c4.svg",
+    "index.html": "/harrypotterproject/index.html",
+    "static/media/Vector.svg": "/harrypotterproject/static/media/Vector.c4fa3c78694650ccadf7c1b6c1801047.svg",
+    "main.4f9d72da.css.map": "/harrypotterproject/static/css/main.4f9d72da.css.map",
+    "main.65c248c4.js.map": "/harrypotterproject/static/js/main.65c248c4.js.map"
   },
   "entrypoints": [
     "static/css/main.4f9d72da.css",
-    "static/js/main.d6b05aaa.js"
+    "static/js/main.65c248c4.js"
   ]
 }
